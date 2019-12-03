@@ -1,0 +1,16 @@
+C:\Users\TSM CONNECT\Desktop\API_BU\API_BU\bin\Debug\netcoreapp2.1\API_BU.dll
+C:\Users\TSM CONNECT\Desktop\API_BU\API_BU\bin\Debug\netcoreapp2.1\API_BU.pdb
+C:\Users\TSM CONNECT\Desktop\API_BU\API_BU\bin\Debug\netcoreapp2.1\API_BU.deps.json
+C:\Users\TSM CONNECT\Desktop\API_BU\API_BU\bin\Debug\netcoreapp2.1\API_BU.runtimeconfig.json
+C:\Users\TSM CONNECT\Desktop\API_BU\API_BU\bin\Debug\netcoreapp2.1\API_BU.runtimeconfig.dev.json
+C:\Users\TSM CONNECT\Desktop\API_BU\API_BU\obj\Debug\netcoreapp2.1\API_BU.RazorAssemblyInfo.cache
+C:\Users\TSM CONNECT\Desktop\API_BU\API_BU\obj\Debug\netcoreapp2.1\API_BU.RazorAssemblyInfo.cs
+C:\Users\TSM CONNECT\Desktop\API_BU\API_BU\obj\Debug\netcoreapp2.1\API_BU.AssemblyInfoInputs.cache
+C:\Users\TSM CONNECT\Desktop\API_BU\API_BU\obj\Debug\netcoreapp2.1\API_BU.AssemblyInfo.cs
+C:\Users\TSM CONNECT\Desktop\API_BU\API_BU\obj\Debug\netcoreapp2.1\API_BU.RazorTargetAssemblyInfo.cache
+C:\Users\TSM CONNECT\Desktop\API_BU\API_BU\obj\Debug\netcoreapp2.1\API_BU.dll
+C:\Users\TSM CONNECT\Desktop\API_BU\API_BU\obj\Debug\netcoreapp2.1\API_BU.pdb
+C:\Users\TSM CONNECT\Desktop\API_BU\API_BU\obj\Debug\netcoreapp2.1\API_BU.csprojAssemblyReference.cache
+C:\Users\TSM CONNECT\Desktop\API_BU\API_BU\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\TSM CONNECT\Desktop\API_BU\API_BU\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\TSM CONNECT\Desktop\API_BU\API_BU\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
